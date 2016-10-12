@@ -6,7 +6,7 @@
   margin: 20px;
 }
 
-img {
+img:hover {
   float: right;
   border: 10px solid black;
   padding: 5px;
@@ -14,7 +14,8 @@ img {
 }
 
 body {
-  background-color: #4A80F3;
+  background-image: linear-gradient(to bottom,red, white);
+  background-repeat: no-repeat;
 }
 
 .column {
